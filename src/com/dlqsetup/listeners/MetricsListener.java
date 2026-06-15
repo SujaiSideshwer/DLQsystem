@@ -2,6 +2,7 @@ package com.dlqsetup.listeners;
 
 import com.dlqsetup.mainentities.Message;
 
+//concrete observer with counters only
 public class MetricsListener implements QueueEventListener{
     private int enqueued, processed, retries, deadLettered;
 
