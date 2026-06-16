@@ -1,29 +1,3 @@
-
-
-Skip to content
-Using Gmail with screen readers
-1 of 3,961
-(no subject)
-Inbox
-
-Sujai.Sideshwer@cognizant.com
-Attachments
-Tue, Jun 9, 12:25 AM (8 days ago)
-to me
-
-resume and cover letter
-
-This e-mail and any files transmitted with it are for the sole use of the intended recipient(s) and may contain confidential and privileged information. If you are not the intended recipient(s), please reply to the sender and destroy all copies of the original message. Any unauthorized review, use, disclosure, dissemination, forwarding, printing or copying of this email, and/or any action taken in reliance on the contents of this e-mail is strictly prohibited and may be unlawful. Where permitted by applicable law, this e-mail and other e-mail communications sent to and from Cognizant e-mail addresses may be monitored. This e-mail and any files transmitted with it are for the sole use of the intended recipient(s) and may contain confidential and privileged information. If you are not the intended recipient(s), please reply to the sender and destroy all copies of the original message. Any unauthorized review, use, disclosure, dissemination, forwarding, printing or copying of this email, and/or any action taken in reliance on the contents of this e-mail is strictly prohibited and may be unlawful. Where permitted by applicable law, this e-mail and other e-mail communications sent to and from Cognizant e-mail addresses may be monitored.
-4 Attachments
-•  Scanned by Gmail
-
-Sujai.Sideshwer@cognizant.com
-Attachments
-12:27 AM (1 minute ago)
-to me
-
-One attachment
-•  Scanned by Gmail
 # Dead Letter Queue — a Java skeleton for OOP & design patterns
 
 A small, runnable Java 21 project that illustrates how a **dead letter queue (DLQ)**
