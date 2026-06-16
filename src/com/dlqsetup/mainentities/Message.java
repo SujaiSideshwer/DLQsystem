@@ -16,11 +16,11 @@ public final class Message<T> {
     private Instant lastAttemptAt;
     private String lastError;
 
-    public Message(String id, T payload, Instant createdAt, int attempts) {
+    public Message(String id, T payload) {
         this.id = id;
         this.payload = payload;
-        this.createdAt = createdAt;
-        this.attempts = attempts;
+        this.createdAt = Instant.now();
+        this.attempts = 0;
     }
 
     public String getId() {

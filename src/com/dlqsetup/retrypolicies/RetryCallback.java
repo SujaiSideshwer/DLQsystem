@@ -1,3 +1,5 @@
+package com.dlqsetup.retrypolicies;
+
 import com.dlqsetup.mainentities.Message;
 
 @FunctionalInterface

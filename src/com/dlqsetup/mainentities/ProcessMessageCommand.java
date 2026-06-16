@@ -1,5 +1,6 @@
-import com.dlqsetup.mainentities.Message;
-import com.dlqsetup.mainentities.MessageHandler;
+package com.dlqsetup.mainentities;
+
+import com.dlqsetup.handlers.MessageHandler;
 
 public class ProcessMessageCommand<T> implements Command {
     private final MessageHandler<T> handler;
